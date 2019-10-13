@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IncomeTaxCalculator</string>
+    <string-array name="citizen">
+        <item>Normal</item>
+        <item>Senior</item>
+        <item>VerySenior</item>
+    </string-array>
+</resources>
